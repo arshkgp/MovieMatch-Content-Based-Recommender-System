@@ -33,7 +33,7 @@ Pickle
 1.Clone the repository:
 
 bash code:
-git clone https:<YOUR FILE NAME>.git
+git clone https://your file name//.git
 cd movie-recommender-system
 
 2.Install the required libraries:
