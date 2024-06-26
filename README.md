@@ -63,3 +63,4 @@ Dataset: The movie dataset and similarity scores were obtained and preprocessed 
 API: Movie posters are fetched from "The Movie Database" API.
 
 Feel free to contribute to enhance the system or suggest improvements! Do give feedbacks and may you have a good experience! 🎬
+Thank You!
