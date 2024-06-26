@@ -35,6 +35,7 @@ Pickle
 bash code:
 git clone https://github.com/yourusername/handwritten-digit-recognition.git
 cd
+
 2.Install the required libraries:
 
 bash code:
