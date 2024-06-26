@@ -34,8 +34,7 @@ Pickle
 
 bash code:
 git clone https://github.com/yourusername/handwritten-digit-recognition.git
-cd movie-recommender-system
-
+cd
 2.Install the required libraries:
 
 bash code:
@@ -48,10 +47,14 @@ streamlit run app.py
 
 # Future Improvements
 Implement user-based or item-based collaborative filtering for personalized recommendations.
+
 Enhance UI/UX with more interactive features.
+
 Deploy the application using cloud services for broader accessibility.
 
 # Credits
 Dataset: The movie dataset and similarity scores were obtained and preprocessed using techniques from collaborative filtering.
+
 API: Movie posters are fetched from "The Movie Database" API.
-Feel free to contribute to enhance the system or suggest improvements! Happy movie recommending! 🎬
+
+Feel free to contribute to enhance the system or suggest improvements! Do give feedbacks and may you have a good experience! 🎬
